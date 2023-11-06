@@ -38,6 +38,7 @@
 ![](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
 
 ### Tools
+![](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/markdown-000000.svg?logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/overleaf-47A141.svg?logo=overleaf&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white)
