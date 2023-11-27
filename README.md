@@ -1,6 +1,6 @@
 # 👋 About Me 
-- I am a dedicated Ph.D. student currently conducting research in Economics of Science.
-- My thesis, scheduled to be completed by November 24, 2023, explores collaboration dynamics and creativity within the research community. The thesis it titled [Understanding Scientific Collaboration and Mobility: A Creativity Perspective](https://github.com/Kwirtz/Structure-of-the-scientific-system-PhD)
+- I am a dedicated Ph.D. conducting research in Economics of Science.
+- My thesis, explored collaboration dynamics and creativity within the research community. The thesis it titled [Understanding Scientific Collaboration and Mobility: A Creativity Perspective](https://github.com/Kwirtz/Structure-of-the-scientific-system-PhD)
 - I have a keen interest in data-driven insights and visualizing complex datasets.
 
 ### Key Competencies
